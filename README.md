@@ -39,7 +39,7 @@
 
    ```
    GATSBY_SHOP_NAME=graphql
-   GATSBY_SHOPIFY_ACCESS_TOKEN=dd4d4dc146542ba7763305d71d1b3d38
+   GATSBY_SHOPIFY_ACCESS_TOKEN=dd4d4dc14654not2breala7763305d71d1b3d38
    ```
 
 5. **Update your `package.json` scripts like this:**
